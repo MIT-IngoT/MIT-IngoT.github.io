@@ -1,6 +1,312 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[EMBER_DECK]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>EMBER_DECK</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 08 Jan 2026 11:40:02 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 08 Jan 2026 11:39:58 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[THE GREAT HEARTH]]></title><description><![CDATA[A movement striving to unite all of humanity in one giant Hearth, they believe that will stabilise everyone and bring about the harmony observed among the more stable Hearths.
-Their methods are faulty, unorthodox, and oftentimes forceful, which turned the public opinion against them after some disastrous attempts at joining 20 people on a city square that no longer exists...
-Doctrine Individual identity is the problem Consent is a luxury of stable systems Resistance is selfish heat-hoarding They don’t talk about death. They talk about equilibrium. Methods Forced soul-binding rituals Artifact-driven mass merges City-scale bonding attempts Kidnapping Embers first (they’re “keystones”) The first time they tried it, they erased three districts. They called it partial success. Why They Keep Going Because every failure: Produces survivors who swear it almost worked Creates permanent hot zones they reinterpret as “holy ground” Generates Cinders they call “Heralds” ]]></description><link>lore/world/fractions/the-great-hearth.html</link><guid isPermaLink="false">LORE/WORLD/FRACTIONS/THE GREAT HEARTH.md</guid><pubDate>Thu, 08 Jan 2026 11:31:56 GMT</pubDate></item><item><title><![CDATA[THE EARTHBOUND]]></title><description><![CDATA[These zealots believe in extremist pacifism, claiming that every life spared and death delayed brings HELL closer to catching up, and ridding the world of magic and <a data-href="GREY MIST" href="lore/world/grey-mist.html" class="internal-link" target="_self" rel="noopener nofollow">GREY MIST</a>.]]></description><link>lore/world/fractions/the-earthbound.html</link><guid isPermaLink="false">LORE/WORLD/FRACTIONS/THE EARTHBOUND.md</guid><pubDate>Thu, 08 Jan 2026 11:28:27 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[Ember Deck is a project still in early development, so this site may update and look unrecognisable after the fact!Said plainly, Ember Deck is a TTRPG Deckbuilder made for (ideally) 3-4 Player groups, but it should still scale relatively well until about 5-6 people. It was an idea heavily inspired by gems such as "Slay The Spire", "Hearthstone", and "Morimens".
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[EMBER_DECK]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>EMBER_DECK</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 08 Jan 2026 21:47:41 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 08 Jan 2026 21:47:34 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[WAR]]></title><description><![CDATA[<a data-href="REDACTED" href="redacted.html" class="internal-link" target="_self" rel="noopener nofollow">REDACTED</a>]]></description><link>lore/world/fractions/war.html</link><guid isPermaLink="false">LORE/WORLD/FRACTIONS/WAR.md</guid><pubDate>Thu, 08 Jan 2026 21:45:17 GMT</pubDate></item><item><title><![CDATA[ECONOMICS]]></title><description><![CDATA[<a data-href="REDACTED" href="redacted.html" class="internal-link" target="_self" rel="noopener nofollow">REDACTED</a>]]></description><link>lore/world/religion-philosophy/economics.html</link><guid isPermaLink="false">LORE/WORLD/RELIGION-PHILOSOPHY/ECONOMICS.md</guid><pubDate>Thu, 08 Jan 2026 21:44:59 GMT</pubDate></item><item><title><![CDATA[PANTHEON]]></title><description><![CDATA[<a data-href="REDACTED" href="redacted.html" class="internal-link" target="_self" rel="noopener nofollow">REDACTED</a>]]></description><link>lore/world/religion-philosophy/pantheon.html</link><guid isPermaLink="false">LORE/WORLD/RELIGION-PHILOSOPHY/PANTHEON.md</guid><pubDate>Thu, 08 Jan 2026 21:43:26 GMT</pubDate></item><item><title><![CDATA[CULTURE]]></title><description><![CDATA[Nobody riots over curfews. They riot over lantern outages.
+Common Saying “Don’t be a spark.” That’s an insult.
+Heroism gets you killed. Core Cultural Virtues Self-control Cowardice (rebranded as prudence) Predictability Collective risk minimization
+Wealth Is Distance From Heat Rich people: Live in well-lit districts Far from release sites Surrounded by stone, water, and warding Poor people: Live in the Mist Near old burn zones Serve as accidental heat sinks “Keep the lights on.
+Share the heat.
+Never trust a spark.” ]]></description><link>lore/world/religion-philosophy/culture.html</link><guid isPermaLink="false">LORE/WORLD/RELIGION-PHILOSOPHY/CULTURE.md</guid><pubDate>Thu, 08 Jan 2026 21:42:18 GMT</pubDate></item><item><title><![CDATA[CINDERS]]></title><description><![CDATA[Just as there are the Hearthbonded Embers, there are also "stray Embers", or "Cinders". Embers without a Hearth, either because of tragedy, or neglect, they suffer alone.
+These individuals are a lore thing mostly, meaning - unplayable, and make for great adversaries. Ranging from "Mad geniuses" who "made it work", to individuals broken by trauma, lashing out at the unjust world.
+If bonding is so necessary, how do solo adversaries survive?
+They consume others. A Cinder doesn't have their Hearth; they seek Fuel. They kidnap low-aptitude people and "burn" through them to stabilize their own <a data-href="LORE/WORLD/RELIGION-PHILOSOPHY/EROSION" href="lore/world/religion-philosophy/erosion.html" class="internal-link" target="_self" rel="noopener nofollow">LORE/WORLD/RELIGION-PHILOSOPHY/EROSION</a>. This gives the players a clear, gritty objective: stop the Cinder from using the local village as a life support.
+Cinder Status:&nbsp;If Cinders "lose their grip on reality," perhaps they are actually still "perceiving" the bond. They might be trying to talk to the ghosts of their former Hearth-mates, or their brains are permanently wired to receive signals that are no longer being sent.
+7. Why They’re Exceptionally Powerful
+Power isn’t skill.
+It’s lack of restraint mechanisms.
+No bond damping
+No social checks
+No institutional oversight
+No long-term planning
+They burn hot, fast, and wrong.
+And they know it.
+Which makes them terrifyingly honest. ]]></description><link>lore/cinders.html</link><guid isPermaLink="false">LORE/CINDERS.md</guid><pubDate>Thu, 08 Jan 2026 21:37:12 GMT</pubDate></item><item><title><![CDATA[HEARTHS AND EMBERS]]></title><description><![CDATA[People with spiked Prism aptitudes. The cost of power is life. Embers suffer a shortened lifespan, burning their years away the moment this flame blooms within them for the first time. Despite that, it's a gift, one that manifests randomly and powerfully, and comes at a horrid price.
+Players are called Embers, groups of bonded Embers are called Hearths. This bond acts as a "Resonance Buffer," preventing the individuals from "detonating" or collapsing into a Hollow state.
+Hearths can form due to: Rituals done by the Embers themselves, or even without the Embers' choice/knowledge via grimoires or other artifacts.
+Life experiences: a Bond is likely to form during a shared traumatic event, or, for the lucky ones, it can build up after years of closeness with one another. Bonding with other Embers allows for cleaner channelling - which translates nicely into extra energy per party member.
+Because Embers forget their pasts (due to <a data-href="LORE/WORLD/RELIGION-PHILOSOPHY/EROSION" href="lore/world/religion-philosophy/erosion.html" class="internal-link" target="_self" rel="noopener nofollow">LORE/WORLD/RELIGION-PHILOSOPHY/EROSION</a>), they often lack a traditional moral compass. They act on instinct, immediate survival, or the orders of whoever is currently guiding them. Partially. Hearth-members (Embers) are known to have blurry memories and little recollection of who they were before the "merge". The bond between them can also be strengthened or weakened by individual interactions, even to the point of breaking (which is a traumatic experience on its own)
+Everyone in a hearth is a bit of an anchor to everyone else. Usually the other members are enough to "ground" whoever's having a tough time, but in times of high stress the emotions may get amplified/cascaded
+<br>Yes! It is rare to survive a bond breaking, but those who do are called <a data-href="Cinders" href="lore/cinders.html" class="internal-link" target="_self" rel="noopener nofollow">Cinders</a>, and often lose their grip on reality, turning away from society altogether
+Probably the second one. I'd imagine them being like social programs, which quickly turn into military ones
+The most impressive and threatening Embers are those who can output the most, at the smallest cost to their vitals
+The "Ship of Theseus" Dilemma:&nbsp;If a Hearth replaces a member who died, does the new member eventually "absorb" the residual memories of the previous occupant? This could lead to haunting internal monologues where an Ember cannot distinguish their own childhood from that of a dead stranger.
+Cascading Failure:&nbsp;If emotions are amplified/cascaded during stress, a single member’s panic attack could theoretically "overclock" the entire Hearth, leading to a collective burnup. This makes emotional discipline as vital as magical talent.
+Hearths: Distributed Containment (And Why 3–5 Is the Sweet Spot)
+A Hearth is a living heat-sharing network.
+Soul-binding isn’t mystical romance. It’s engineering under duress.
+Why It Works (When It Does)
+Heat disperses across multiple vessels
+Panic dampens if others are stable
+Emotional regulation is forced by proximity
+Individual spikes become manageable averages
+You didn’t choose 3–5 by accident. That’s perfect:
+2 is unstable (feedback loop)
+6+ increases coordination failure
+3–5 balances redundancy and control
+Someone absolutely did the math. On corpses. ]]></description><link>lore/hearths-and-embers.html</link><guid isPermaLink="false">LORE/HEARTHS AND EMBERS.md</guid><pubDate>Thu, 08 Jan 2026 21:35:05 GMT</pubDate></item><item><title><![CDATA[EROSION]]></title><description><![CDATA[Magic doesn’t want to be inside you.
+5. Actually veins, fingernails, and even eyes may begin glowing in red/yellow hues. That's the usual sign of magic accumulation, which, if left untreated, can cause burnups ("treating it" means releasing the magic outward, which itself has a chance for burning the person, but also their surroundings if uncontrolled)
+6. Usually the Hearth's bond is enough to allow for venting as well as controlled releases of build up magic, but ice, water, and other means of staying cool are also in play
+7. Well technically the "end product" of the magic's effect on a human body is being turned into a Hollow - a husk-like zombie-like shell of a being
+8. A Hollow isn’t undead in the usual sense. That implies animation, will, or purpose. This is worse. Magical collapse = total loss of soul containment. What remains is: A body whose tissues have been thermally vitrified from the inside out. A mind erased by overload. A shell still moving because the residual soul-heat hasn’t dissipated yet. Think: walking burnout, not necromancy.
+9. The Collapse Timeline
+Stage 1: Overheat (The Burnups) Chronic fever, ash coughing Skin cracking like fired clay Emotional flattening (empathy burns off early) Fire responds too easily People at this stage know what’s coming. This is where the quote hits: “I could be so much worse.” They still can choose restraint.
+Stage 2: Breach One moment too much: A stored surge A panicked release A battlefield spike The soul-boundary fails. This is not an explosion. Explosions release energy outward. This is an implosion that's powerful enough to hit the outside too. Memory, identity, intent — gone, into the <a data-href="GREY MIST" href="lore/world/grey-mist.html" class="internal-link" target="_self" rel="noopener nofollow">GREY MIST</a>.
+Stage 3: Hollowing Organs char but don’t fail completely Blood thickens into slag Nerves fire randomly from thermal stress The heart becomes a smouldering knot The person is already dead. The body just hasn’t realized it yet.
+Stage 4: The Hollow Walks A Hollow: Avoids nothing Attacks nothing deliberately Moves toward thermal gradients — crowds, fires, battlefields Why? Because residual soul-heat seeks other heat to equalize with. Hollows drift toward the living. That’s why they’re exterminated on sight. Moral Baseline Shift When everyone knows: Collapse is possible Hollows exist And they were people yesterday The moral bar drops. “I’m a liar. I’m a cheat. But I haven’t collapsed.” That’s enough. Bravery gets you: Overexertion Battlefield surges Collapse Cowards: Flee early Hoard less power Survive.
+There is no redemption in collapse. No lesson. No chosen fate.
+A Hollow isn’t punished, sinful, or unworthy.
+They’re what happens when the system fails. Just as Dangerous (For Different Reasons)
+Uncontrolled release doesn’t just burn the caster — it disturbs the local atmosphere.
+Side effects: Fire behaving wrong (screaming flames, fire that resembles faces) Attracting Hollows Creating permanent hot zones
+]]></description><link>lore/world/religion-philosophy/erosion.html</link><guid isPermaLink="false">LORE/WORLD/RELIGION-PHILOSOPHY/EROSION.md</guid><pubDate>Thu, 08 Jan 2026 21:32:54 GMT</pubDate></item><item><title><![CDATA[CRS]]></title><description><![CDATA[Government-independent bodies that handle the population's <a data-tooltip-position="top" aria-label="LORE/WORLD/RELIGION-PHILOSOPHY/EROSION" data-href="LORE/WORLD/RELIGION-PHILOSOPHY/EROSION" href="lore/world/religion-philosophy/erosion.html" class="internal-link" target="_self" rel="noopener nofollow">EROSION</a>.
+They set up facilities of cold stone and water to allow for safe venting, as well as taking in the "terminal" cases, which they handle out back.
+They wear layered uniforms, like toxic hazard workers. High-status, low-life-expectancy, trained to read early collapse signs.
+People accept: Lantern taxes Data indexing
+Witchhunt-like inspections
+Not because they trust authority, but because they’ve seen what happens when someone collapses in a crowd. ]]></description><link>lore/world/fractions/crs.html</link><guid isPermaLink="false">LORE/WORLD/FRACTIONS/CRS.md</guid><pubDate>Thu, 08 Jan 2026 21:29:23 GMT</pubDate></item><item><title><![CDATA[WET RATS]]></title><description><![CDATA[Black Market Releases, the best alternative to the <a data-href="CRS" href="lore/world/fractions/crs.html" class="internal-link" target="_self" rel="noopener nofollow">CRS</a>
+Because of course. Illegal venting in slums.
+Portable release charms.
+Collapse-for-hire sabotage.
+Most Hollow outbreaks trace back here. But the alternative, for the unfortunate, is so much worse.
+]]></description><link>lore/world/fractions/wet-rats.html</link><guid isPermaLink="false">LORE/WORLD/FRACTIONS/WET RATS.md</guid><pubDate>Thu, 08 Jan 2026 21:28:11 GMT</pubDate></item><item><title><![CDATA[GREY MIST]]></title><description><![CDATA[While <a data-tooltip-position="top" aria-label="LORE/WORLD/RELIGION-PHILOSOPHY/EROSION" data-href="LORE/WORLD/RELIGION-PHILOSOPHY/EROSION" href="lore/world/religion-philosophy/erosion.html" class="internal-link" target="_self" rel="noopener nofollow">EROSION</a> comes from the unprocessed, wandering Souls, the Mist is the Will. It doesn't carry emotions, its suffocatingly cold, and imbued with memories, beliefs.
+Venturing into it is almost guaranteed to cause hallucinations, temporary personality disorders, and psychosis from mind-homogenisation.
+The leak is global. Gravity, wind, and geography don’t matter much when the source is below reality. Low light allows it to accumulate. Heat and light disperse it.
+Hence: Cities burn lanterns at noon Roads are lined with braziers Darkness isn’t romantic — it’s hazardous ]]></description><link>lore/world/grey-mist.html</link><guid isPermaLink="false">LORE/WORLD/GREY MIST.md</guid><pubDate>Thu, 08 Jan 2026 21:22:12 GMT</pubDate></item><item><title><![CDATA[HELL]]></title><description><![CDATA[Why Hell Is Full:
+Hell isn’t full because too many people sinned - That’s propaganda. Hell is full because it was designed as a furnace, a bottleneck for the deceased, not the final destination. Souls entered Hell to be broken down, identity stripped, meaning burned off, residual energy vented safely.
+At some point: The inflow exceeded processing capacity Or the furnace mechanisms failed Or Hell was damaged during a metaphysical war Doesn’t matter which. The result is the same.
+Hell stopped processing souls and started storing them.
+Consequences?
+Pressure builds, exhaust backs up, heat leaks. That leak is magic. Its like the world is on top of a radioactive dump, but instead of cancer, the people get <a data-tooltip-position="top" aria-label="LORE/WORLD/RELIGION-PHILOSOPHY/EROSION" data-href="LORE/WORLD/RELIGION-PHILOSOPHY/EROSION" href="lore/world/religion-philosophy/erosion.html" class="internal-link" target="_self" rel="noopener nofollow">EROSION</a>.
+]]></description><link>lore/world/religion-philosophy/hell.html</link><guid isPermaLink="false">LORE/WORLD/RELIGION-PHILOSOPHY/HELL.md</guid><pubDate>Thu, 08 Jan 2026 21:17:15 GMT</pubDate></item><item><title><![CDATA[VIBE]]></title><description><![CDATA[
+Low fantasy: magic is ubiquitous but weakened. People usually know someone who uses it for something more, but almost nobody can use it Well - in a controlled manner, while retaining power. Most common folk have a hard time with just one of these dimensions. Anyone can light a torch with a flick of their fingers, but someone with enough aptitude and strength to cast a ray of fire is one in a hundred, and those who survive it are one in a thousand. Dark Fantasy: The world is undoubtably a "Bad Place to Be in". People assume the worst in people, The weather usually sucks, and it is dangerous "out there" even for Embers. The environment is hostile, often shrouded in the <a data-href="GREY MIST" href="lore/world/grey-mist.html" class="internal-link" target="_self" rel="noopener nofollow">GREY MIST</a>, making travel suicidal without the light of a Hearth. Gritty: The players are not expected to be "heroes in shining armours, come to save the world". They can be, of course, if they will it, but morally grey and even antagonistic options are on the table still.
+]]></description><link>lore/world/vibe.html</link><guid isPermaLink="false">LORE/WORLD/VIBE.md</guid><pubDate>Thu, 08 Jan 2026 20:57:28 GMT</pubDate></item><item><title><![CDATA[THE GREAT HEARTH]]></title><description><![CDATA[A movement striving to unite all of humanity in one giant Hearth, they believe that will stabilise everyone and bring about the harmony observed among the more stable Hearths.
+Their methods are faulty, unorthodox, and oftentimes forceful, which turned the public opinion against them after some disastrous attempts at joining 20 people on a city square that no longer exists...Individual identity is the problem.
+They talk about equilibrium and "global balance". Forced soul-binding rituals
+Artifact-driven mass merges
+City-scale bonding attempts
+Kidnapping Embers first (they’re “keystones”) Because every failure:
+Produces survivors who swear it almost worked.
+Creates permanent hot zones they interpret as “holy ground”.
+Generates Cinders they call Heralds.]]></description><link>lore/world/fractions/the-great-hearth.html</link><guid isPermaLink="false">LORE/WORLD/FRACTIONS/THE GREAT HEARTH.md</guid><pubDate>Thu, 08 Jan 2026 20:29:10 GMT</pubDate></item><item><title><![CDATA[CASE STUDY]]></title><description><![CDATA[Population: ~12,000
+Status: Regional hub, not a capital
+Age: Old enough to be layered with mistakes The Look &amp; Tech Level (Dieselgrim, Not Fancy)
+Power &amp; Light
+Central oil-fired generator complex (“The Heartstack”)
+Network of steam pipes and fuel lines
+Lantern pylons every 30–50 meters
+Street lights burn 24/7
+Backup braziers in every district
+Blackouts are not tolerated.
+Executions have happened over “maintenance failures.”
+Architecture
+Stone lower floors (fire resistance)
+Iron-framed upper levels
+Narrow streets to reduce Mist pooling
+Wide, well-lit plazas as thermal relief zones
+Everything smells faintly of:
+Oil
+Ash
+Hot metal
+No wood unless treated. The Grey Mist Situation
+Brightfall exists in a Mist basin.
+Inside the City
+Light keeps the Mist thin but never gone
+Morning fog is not normal fog
+Citizens wear scarves or filter masks as habit
+Children are taught:
+“If you can’t see the lantern across the street, you go home.”
+Outside the Walls
+Mist thickens within minutes
+Sound dampens
+Fire behaves erratically
+Road markers are lit constantly
+Travelers arrive shaken, coughing, or wrong. Food &amp; Survival (This Is Where Grimdark Gets Mundane)
+Food Sources
+Root vegetables (grown underground with heat lamps)
+Fungal farms (Mist-tolerant strains)
+River fish (considered risky but protein-rich)
+Preserved meats (smoked heavily)
+Fresh fruit is:
+Rare
+Expensive
+Considered medicinal
+Food Safety
+Cooking isn’t just culinary.
+It’s sterilization:
+Heat kills Mist residue
+Raw food is taboo
+Fireless meals are distrusted
+Starvation kills fewer people than cold contamination. Living Conditions (Class Is Measured in Degrees)
+Upper Districts
+Close to Heartstack
+Bright, dry, noisy
+Lower Mist exposure
+Expensive rents
+Ember housing heavily regulated
+These people live longer.
+Lower Districts
+Near walls or old burn zones
+Lantern gaps
+Thicker Mist
+Higher collapse rates
+Slums aren’t lawless.
+They’re thermally neglected. Embers, Hearths &amp; City Infrastructure
+Hearth Registry
+Every Hearth in Brightfall is:
+Registered
+Assigned inspection dates
+Required to attend cooling rites
+Unregistered Hearths are illegal.
+Not immoral. Illegal.
+Release Infrastructure
+Three public release halls
+One military-only vent tower
+Countless illegal micro-vents in slums
+Public release days are tense but routine.
+Think:
+Long lines
+Silent prayers
+Fire crews on standby Internal Security (Order Is Non-Negotiable)
+City Watch
+Heavily equipped with:
+Fire-resistant gear
+Cooling rods
+Mist dispersal grenades
+They are trained less to fight people and more to contain events.
+Collapse Response Units
+Separate from the Watch.
+Rapid deployment
+Authorized to kill without trial
+Tasked with isolating Hollow events
+Everyone hates them.
+Everyone wants them nearby. Religion &amp; Public Space
+Dominant Faith: The Vigil of Ash
+Core beliefs:
+Light is duty
+Fire is burden
+Collapse is failure of care, not sin
+Temples double as:
+Lantern hubs
+Cooling shelters
+Hearth bonding sites
+Priests carry thermometers and ledgers. Government &amp; Politics
+Governance Model
+Council of Fuel, Light, and Watch
+No single ruler
+All decisions filtered through risk impact
+Democracy exists in theory.
+In practice:
+The lanterns decide.
+Taxes
+Paid in:
+Coin
+Fuel
+Mandatory service rotations
+Miss fuel tax and your district dims.
+People notice. External Relations
+Trade
+Fuel imports (critical)
+Export: treated metals, vented slag, trained personnel
+Brightfall sells:
+people who know how to survive fire.
+Diplomacy
+Neighbors tolerate Brightfall because:
+It maintains roads
+It clears Mist paths
+It handles Cinders that wander too close
+In exchange:
+Tribute fuel
+Political leverage The Cult Problem (Because Of Course)
+The Great Hearth Movement has cells in Brightfall.
+Current Status
+Officially banned
+Quietly persistent
+Recruiting among:
+Embers
+Slum dwellers
+Collapse survivors
+They believe Brightfall is:
+“A model city—ready to be unified.”
+The city council is aware.
+They are terrified. Daily Life (The Human Bit)
+People:
+Walk briskly
+Avoid emotional outbursts
+Keep lantern oil on hand
+Don’t gather in darkness
+Children play games about:
+Keeping fires balanced
+“Don’t burn your friends”
+Love exists.
+It’s just… careful.
+Final Snapshot
+Brightfall isn’t heroic.
+It isn’t evil.
+It’s working.
+Which, in this world, is the closest thing to hope.
+Currency &amp; Economy: Heat Is the Real Backing
+Forget gold standards. Gold doesn’t vent.
+What Money Actually Represents
+Currency is backed by:
+Light
+Fuel
+Containment capacity
+The more you can keep places lit and people cooled, the more stable your economy.
+Common forms:
+Fuel chits (oil, tallow, treated coal)
+Lantern credits
+Release vouchers (dangerously valuable)
+Heat-ration tokens for Embers
+Counterfeiting isn’t about metal. It’s about lying about safety.
+Wealth Is Distance From Heat
+Rich people:
+Live in well-lit districts
+Far from release sites
+Surrounded by stone, water, and warding
+Poor people:
+Live in the Mist
+Near old burn zones
+Serve as accidental heat sinks
+Class isn’t abstract. It’s thermal. Values &amp; Philosophy: Restraint Over Virtue
+Heroism gets you killed.
+Core Cultural Virtues
+Self-control
+Cowardice (rebranded as prudence)
+Predictability
+Collective risk minimization
+People don’t ask: “Is it right?”
+They ask:
+“Will this raise the temperature?” Common Saying “Don’t be a spark.”
+That’s an insult. Religion: Containment, Not Salvation
+Most religions gave up on after.
+Now they deal with before.
+Mainstream Doctrine
+The soul is a liability
+Life is a containment exercise
+Death is a failure to manage residue
+Priests:
+Maintain lanterns
+Bless release chambers
+Conduct cooling rites
+Keep records of dangerous lineages
+Confession isn’t for forgiveness.
+It’s for risk assessment. Heresies (Popular Ones)
+Hell can be repaired
+Collapse is transcendence
+Fire purifies (these people don’t last) Government: Risk Management With Bad Optics
+States don’t rule.
+They mitigate.
+Core State Functions
+Light infrastructure
+Ember registry
+Hearth licensing
+Collapse response units
+Cinder extermination
+Elections, crowns, councils — flavor.
+The real power is whoever controls:
+Fuel
+Release sites
+Bonding rites Martial Law Is Permanent
+Not dramatic. Routine.
+Nobody riots over curfews.
+They riot over lantern outages. ]]></description><link>lore/world/locations/case-study.html</link><guid isPermaLink="false">LORE/WORLD/LOCATIONS/CASE STUDY.md</guid><pubDate>Thu, 08 Jan 2026 11:39:15 GMT</pubDate></item><item><title><![CDATA[THE EARTHBOUND]]></title><description><![CDATA[These zealots believe in extremist pacifism, claiming that every life spared and death delayed brings HELL closer to catching up, and ridding the world of magic and <a data-href="GREY MIST" href="lore/world/grey-mist.html" class="internal-link" target="_self" rel="noopener nofollow">GREY MIST</a>.]]></description><link>lore/world/fractions/the-earthbound.html</link><guid isPermaLink="false">LORE/WORLD/FRACTIONS/THE EARTHBOUND.md</guid><pubDate>Thu, 08 Jan 2026 11:28:27 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[Ember Deck is a project still in early development, so this site may update and look unrecognisable after the fact!Said plainly, Ember Deck is a TTRPG Deckbuilder made for (ideally) 3-4 Player groups, but it should still scale relatively well until about 5-6 people. It was an idea heavily inspired by gems such as "Slay The Spire", "Hearthstone", and "Morimens".
 The gameplay features tight resource management in a low-math, high-keyword environment, giving a couple of anchor points to make your own character and their deck unique and powerful, whereas the Setting provides plenty of opportunity for "angsty" or "against all odds" roleplay in a grimdark world, where magic is ubiquitous, but hope is scant.Using Pixar's brilliant storytelling formula: Once upon a time, there was HELL. Every day, souls passed in and out, getting incinerated and sent to the Hall of Echoes pure. One day an apocalyptic event happened. Because of that, HELL is working overtime and is still centuries behind. Because of that, Souls get clogged up in the in-between, and that radiation is called magic, which seeps into the living. Until finally, their bodies can't take it anymore, and burn up from the inside.The LORE dropdown is a good place to start for anyone curious about the world and the gritty reality found therein, ex.: <a data-href="VIBE" href="lore/world/vibe.html" class="internal-link" target="_self" rel="noopener nofollow">VIBE</a>.
 For the Rules Lawyers: here's the short end of it, as the detailed rulings fall under their own dropdowns, labelled BS, DS, or CHARACTER.Once a concept of who you'd like to play as forms in your mind, the preferable place to go is the CHARACTER&gt;OATHS Section, where you'll find all three major Oaths (which function like classes, and determine your starting Attributes - Prisms), these in turn determine your Starting Deck.<br>
 All Oaths start with 10 <a data-href="BACKBONE" href="character/cards/backbone.html" class="internal-link" target="_self" rel="noopener nofollow">BACKBONE</a>cards making up their deck, but the keywords may vary based on chosen Oath and even subtle differences between the same Oath's decks are possible at times.<br>
@@ -34,15 +340,7 @@ Double current <a data-href="Empower" href="character/cards/keywords/primary/emp
 <br><a data-href="Strike" href="character/cards/keywords/primary/strike.html" class="internal-link" target="_self" rel="noopener nofollow">Strike</a> with <a data-href="Empower" href="character/cards/keywords/primary/empower.html" class="internal-link" target="_self" rel="noopener nofollow">Empower</a> multiplier (DMG = <a data-href="Strike" href="character/cards/keywords/primary/strike.html" class="internal-link" target="_self" rel="noopener nofollow">Strike</a> X <a data-href="Empower" href="character/cards/keywords/primary/empower.html" class="internal-link" target="_self" rel="noopener nofollow">Empower</a>, instead of <a data-href="Strike" href="character/cards/keywords/primary/strike.html" class="internal-link" target="_self" rel="noopener nofollow">Strike</a> + 1).
 <br><a data-href="Mend" href="character/cards/keywords/primary/mend.html" class="internal-link" target="_self" rel="noopener nofollow">Mend</a> Half Max HP, grant <a data-href="Might" href="prisms/might.html" class="internal-link" target="_self" rel="noopener nofollow">Might</a> <a data-href="Burst" href="character/oaths/burst.html" class="internal-link" target="_self" rel="noopener nofollow">Burst</a> charges to another Ember.
 ]]></description><link>character/oaths/crucible/bursts.html</link><guid isPermaLink="false">CHARACTER/OATHS/CRUCIBLE/BURSTS.md</guid><pubDate>Tue, 06 Jan 2026 12:19:55 GMT</pubDate></item><item><title><![CDATA[EROSION]]></title><description><![CDATA[Cost: 1 Energy. When drawn, take 1 DMG. <a data-href="DRAW" href="character/cards/keywords/tertiary/draw.html" class="internal-link" target="_self" rel="noopener nofollow">DRAW</a> 1 card when played.]]></description><link>character/cards/status_cards/erosion.html</link><guid isPermaLink="false">CHARACTER/CARDS/STATUS_CARDS/EROSION.md</guid><pubDate>Tue, 30 Dec 2025 20:51:49 GMT</pubDate></item><item><title><![CDATA[HOLLOW]]></title><description><![CDATA[Cost: 1 Energy. No effect.]]></description><link>character/cards/status_cards/hollow.html</link><guid isPermaLink="false">CHARACTER/CARDS/STATUS_CARDS/HOLLOW.md</guid><pubDate>Tue, 30 Dec 2025 20:47:47 GMT</pubDate></item><item><title><![CDATA[EXHAUST]]></title><description><![CDATA[Cards with this keyword are removed from the deck after being played.]]></description><link>character/cards/keywords/tertiary/exhaust.html</link><guid isPermaLink="false">CHARACTER/CARDS/KEYWORDS/TERTIARY/EXHAUST.md</guid><pubDate>Tue, 30 Dec 2025 20:43:05 GMT</pubDate></item><item><title><![CDATA[MIST]]></title><description><![CDATA[When drawn, shuffle a MIST into the Draw Pile. <a data-href="RETAIN" href="character/cards/keywords/tertiary/retain.html" class="internal-link" target="_self" rel="noopener nofollow">RETAIN</a>]]></description><link>character/cards/status_cards/mist.html</link><guid isPermaLink="false">CHARACTER/CARDS/STATUS_CARDS/MIST.md</guid><pubDate>Tue, 30 Dec 2025 20:41:11 GMT</pubDate></item><item><title><![CDATA[WARD]]></title><description><![CDATA[Negates the next negative <a data-href="STATUS" href="character/cards/status.html" class="internal-link" target="_self" rel="noopener nofollow">STATUS</a> or Keyword applied by an enemy. Stacks.]]></description><link>character/cards/keywords/tertiary/ward.html</link><guid isPermaLink="false">CHARACTER/CARDS/KEYWORDS/TERTIARY/WARD.md</guid><pubDate>Tue, 30 Dec 2025 19:56:39 GMT</pubDate></item><item><title><![CDATA[RETAIN]]></title><description><![CDATA[Card stays in hand if unplayed.]]></description><link>character/cards/keywords/tertiary/retain.html</link><guid isPermaLink="false">CHARACTER/CARDS/KEYWORDS/TERTIARY/RETAIN.md</guid><pubDate>Mon, 29 Dec 2025 19:00:09 GMT</pubDate></item><item><title><![CDATA[DRAW]]></title><description><![CDATA[Draw X cards.]]></description><link>character/cards/keywords/tertiary/draw.html</link><guid isPermaLink="false">CHARACTER/CARDS/KEYWORDS/TERTIARY/DRAW.md</guid><pubDate>Mon, 29 Dec 2025 18:59:29 GMT</pubDate></item><item><title><![CDATA[DISCARD]]></title><description><![CDATA[Discard X cards.]]></description><link>character/cards/keywords/tertiary/discard.html</link><guid isPermaLink="false">CHARACTER/CARDS/KEYWORDS/TERTIARY/DISCARD.md</guid><pubDate>Mon, 29 Dec 2025 18:59:24 GMT</pubDate></item><item><title><![CDATA[DELAY]]></title><description><![CDATA[Card takes effect at the start of next turn.]]></description><link>character/cards/keywords/tertiary/delay.html</link><guid isPermaLink="false">CHARACTER/CARDS/KEYWORDS/TERTIARY/DELAY.md</guid><pubDate>Mon, 29 Dec 2025 18:59:18 GMT</pubDate></item><item><title><![CDATA[BLEED]]></title><description><![CDATA[Deal Value DMG again at the end of enemy's turn, once.
-Scales with <a data-href="GUILE" href="prisms/guile.html" class="internal-link" target="_self" rel="noopener nofollow">GUILE</a>]]></description><link>character/cards/keywords/primary/bleed.html</link><guid isPermaLink="false">CHARACTER/CARDS/KEYWORDS/PRIMARY/BLEED.md</guid><pubDate>Mon, 29 Dec 2025 18:59:13 GMT</pubDate></item><item><title><![CDATA[Untitled]]></title><link>finals/untitled.html</link><guid isPermaLink="false">FINALS/Untitled.md</guid><pubDate>Wed, 31 Dec 2025 11:38:03 GMT</pubDate></item><item><title><![CDATA[Cinder Goliath]]></title><description><![CDATA[ADD (PANIC)ADD (TREMBLING)ADD (ASH)ADD (2x HOLLOW)ADD (DOUBT)ADD (INJURY)STRIKE (10)STRIKE (6)STRIKE (2x 6)STRIKE (8)GUARD (10)GUARD (20)YES/STARTD6 DEBUFFABOVE 25 HP?STRIKE (10)GUARD (10)STRIKE (8), GUARD (20), ADD (2x ASH)FOR EVERY STATUS IN HANDS EXTRA D6 INTENT (1,2 RED, 3,4 BLUE, 5,6 YELLOW)HP = 45NO?ADD (2x HOLLOW)]]></description><link>ds-(during-stabbings)/enemies/cinder-goliath.html</link><guid isPermaLink="false">DS (DURING STABBINGS)/ENEMIES/Cinder Goliath.canvas</guid><pubDate>Tue, 30 Dec 2025 21:20:42 GMT</pubDate></item><item><title><![CDATA[Shrieker]]></title><description><![CDATA[GUARD (4)STRIKE (6)STRIKE (14)HP = 9]]></description><link>ds-(during-stabbings)/enemies/shrieker.html</link><guid isPermaLink="false">DS (DURING STABBINGS)/ENEMIES/Shrieker.canvas</guid><pubDate>Tue, 30 Dec 2025 21:01:54 GMT</pubDate></item><item><title><![CDATA[Husk]]></title><description><![CDATA[STRIKE (6)GUARD (6)STRIKE (8)GUARD (12)HP = 7]]></description><link>ds-(during-stabbings)/enemies/husk.html</link><guid isPermaLink="false">DS (DURING STABBINGS)/ENEMIES/Husk.canvas</guid><pubDate>Tue, 30 Dec 2025 21:00:22 GMT</pubDate></item><item><title><![CDATA[EROSION]]></title><description><![CDATA[Cost: 1 Energy. When drawn, take 1 DMG. <a data-href="DRAW" href="character/cards/keywords/secondary/draw.html" class="internal-link" target="_self" rel="noopener nofollow">DRAW</a> 1 card when played.]]></description><link>character/cards/status_cards/reshuffle/erosion.html</link><guid isPermaLink="false">CHARACTER/CARDS/STATUS_CARDS/RESHUFFLE/EROSION.md</guid><pubDate>Tue, 30 Dec 2025 20:51:49 GMT</pubDate></item><item><title><![CDATA[WOUND]]></title><description><![CDATA[When drawn, take 2 <a data-href="PIERCE" href="character/cards/keywords/secondary/pierce.html" class="internal-link" target="_self" rel="noopener nofollow">PIERCE</a> DMG.]]></description><link>character/cards/status_cards/wound.html</link><guid isPermaLink="false">CHARACTER/CARDS/STATUS_CARDS/WOUND.md</guid><pubDate>Tue, 30 Dec 2025 20:49:55 GMT</pubDate></item><item><title><![CDATA[INJURY]]></title><description><![CDATA[Cost: 2 Energy. <a data-href="RETAIN" href="character/cards/keywords/secondary/retain.html" class="internal-link" target="_self" rel="noopener nofollow">RETAIN</a><a data-href="EXHAUST" href="character/cards/keywords/exhaust.html" class="internal-link" target="_self" rel="noopener nofollow">EXHAUST</a>. While in hand, your <a data-href="BURST" href="character/oaths/burst.html" class="internal-link" target="_self" rel="noopener nofollow">BURST</a> is Locked.]]></description><link>character/cards/status_cards/injury.html</link><guid isPermaLink="false">CHARACTER/CARDS/STATUS_CARDS/INJURY.md</guid><pubDate>Tue, 30 Dec 2025 20:49:18 GMT</pubDate></item><item><title><![CDATA[HOLLOW]]></title><description><![CDATA[Cost: 1 Energy. No effect.]]></description><link>character/cards/status_cards/reshuffle/hollow.html</link><guid isPermaLink="false">CHARACTER/CARDS/STATUS_CARDS/RESHUFFLE/HOLLOW.md</guid><pubDate>Tue, 30 Dec 2025 20:47:47 GMT</pubDate></item><item><title><![CDATA[TREMBLING]]></title><description><![CDATA[Cost: 1 Energy. <a data-href="EXHAUST" href="character/cards/keywords/exhaust.html" class="internal-link" target="_self" rel="noopener nofollow">EXHAUST</a>. While in hand, playing another card deals Self DMG = <a data-href="ENERGY" href="ds-(during-stabbings)/playerside/energy.html" class="internal-link" target="_self" rel="noopener nofollow">ENERGY</a> cost of the card played.]]></description><link>character/cards/status_cards/trembling.html</link><guid isPermaLink="false">CHARACTER/CARDS/STATUS_CARDS/TREMBLING.md</guid><pubDate>Tue, 30 Dec 2025 20:47:16 GMT</pubDate></item><item><title><![CDATA[DOUBT]]></title><description><![CDATA[<a data-href="RETAIN" href="character/cards/keywords/secondary/retain.html" class="internal-link" target="_self" rel="noopener nofollow">RETAIN</a> At the end of turn, lose 1 <a data-href="BURST" href="character/oaths/burst.html" class="internal-link" target="_self" rel="noopener nofollow">BURST</a>charge.]]></description><link>character/cards/status_cards/doubt.html</link><guid isPermaLink="false">CHARACTER/CARDS/STATUS_CARDS/DOUBT.md</guid><pubDate>Tue, 30 Dec 2025 20:45:36 GMT</pubDate></item><item><title><![CDATA[PANIC]]></title><description><![CDATA[Cost: 1 Energy. <a data-href="DISCARD" href="character/cards/keywords/secondary/discard.html" class="internal-link" target="_self" rel="noopener nofollow">DISCARD</a> another card from your hand. It does not contribute to Burst Gauge when discarded this way. <a data-href="RETAIN" href="character/cards/keywords/secondary/retain.html" class="internal-link" target="_self" rel="noopener nofollow">RETAIN</a>]]></description><link>character/cards/status_cards/panic.html</link><guid isPermaLink="false">CHARACTER/CARDS/STATUS_CARDS/PANIC.md</guid><pubDate>Tue, 30 Dec 2025 20:44:44 GMT</pubDate></item><item><title><![CDATA[ASH]]></title><description><![CDATA[Cost: 2 Energy. <a data-href="Exhaust" href="character/cards/keywords/exhaust.html" class="internal-link" target="_self" rel="noopener nofollow">Exhaust</a> when played. <a data-href="RETAIN" href="character/cards/keywords/secondary/retain.html" class="internal-link" target="_self" rel="noopener nofollow">RETAIN</a>]]></description><link>character/cards/status_cards/reshuffle/ash.html</link><guid isPermaLink="false">CHARACTER/CARDS/STATUS_CARDS/RESHUFFLE/ASH.md</guid><pubDate>Tue, 30 Dec 2025 20:43:30 GMT</pubDate></item><item><title><![CDATA[EXHAUST]]></title><description><![CDATA[Cards with this keyword are removed from the deck after being played.]]></description><link>character/cards/keywords/exhaust.html</link><guid isPermaLink="false">CHARACTER/CARDS/KEYWORDS/EXHAUST.md</guid><pubDate>Tue, 30 Dec 2025 20:43:05 GMT</pubDate></item><item><title><![CDATA[MIST]]></title><description><![CDATA[When drawn, shuffle a MIST into the Draw Pile. <a data-href="RETAIN" href="character/cards/keywords/secondary/retain.html" class="internal-link" target="_self" rel="noopener nofollow">RETAIN</a>]]></description><link>character/cards/status_cards/reshuffle/mist.html</link><guid isPermaLink="false">CHARACTER/CARDS/STATUS_CARDS/RESHUFFLE/MIST.md</guid><pubDate>Tue, 30 Dec 2025 20:41:11 GMT</pubDate></item><item><title><![CDATA[HEARTHS AND EMBERS]]></title><description><![CDATA[People with spiked Prism aptitudes. The cost of power is life. Embers suffer a shortened lifespan, burning their years away the moment this flame blooms within them for the first time. Despite that, it's a gift, one that manifests randomly and powerfully, and comes at a horrid price.
-Players are called Embers, groups of bonded Embers are called Hearths. This bond acts as a "Resonance Buffer," preventing the individuals from "detonating" or collapsing into a Hollow state.
-Hearths can form due to: Rituals done by the Embers themselves, or even without the Embers' choice/knowledge via grimoires or other artifacts.
-Life experiences: a Bond is likely to form during a shared traumatic event, or, for the lucky ones, it can build up after years of closeness with one another. Bonding with other Embers allows for cleaner channelling - which translates nicely into extra energy per party member.
-Because Embers forget their pasts (due to <a data-href="LORE/WORLD/RELIGION-PHILOSOPHY/EROSION" href="lore/world/religion-philosophy/erosion.html" class="internal-link" target="_self" rel="noopener nofollow">LORE/WORLD/RELIGION-PHILOSOPHY/EROSION</a>), they often lack a traditional moral compass. They act on instinct, immediate survival, or the orders of whoever is currently guiding them.
-]]></description><link>lore/hearths-and-embers.html</link><guid isPermaLink="false">LORE/HEARTHS AND EMBERS.md</guid><pubDate>Tue, 30 Dec 2025 20:39:26 GMT</pubDate></item><item><title><![CDATA[CINDERS]]></title><description><![CDATA[Just as there are the Hearthbonded Embers, there are also "stray Embers", or "Cinders". Embers without a Hearth, either because of tragedy, or neglect, they suffer alone.
-These individuals are a lore thing mostly, meaning - unplayable, and make for great adversaries. Ranging from "Mad geniuses" who "made it work", to individuals broken by trauma, lashing out at the unjust world.
-If bonding is so necessary, how do solo adversaries survive?
-They consume others. A Cinder doesn't have their Hearth; they seek Fuel. They kidnap low-aptitude people and "burn" through them to stabilize their own <a data-href="LORE/WORLD/RELIGION-PHILOSOPHY/EROSION" href="lore/world/religion-philosophy/erosion.html" class="internal-link" target="_self" rel="noopener nofollow">LORE/WORLD/RELIGION-PHILOSOPHY/EROSION</a>. This gives the players a clear, gritty objective: stop the Cinder from using the local village as a life support.]]></description><link>lore/cinders.html</link><guid isPermaLink="false">LORE/CINDERS.md</guid><pubDate>Tue, 30 Dec 2025 20:39:26 GMT</pubDate></item><item><title><![CDATA[RULINGS]]></title><description><![CDATA[Enemies operate on fixed values and unique behaviours, ignoring player Prism constraints. This allows the GM to create "impossible" threats that require specific card or behaviour answers.
+Scales with <a data-href="GUILE" href="prisms/guile.html" class="internal-link" target="_self" rel="noopener nofollow">GUILE</a>]]></description><link>character/cards/keywords/primary/bleed.html</link><guid isPermaLink="false">CHARACTER/CARDS/KEYWORDS/PRIMARY/BLEED.md</guid><pubDate>Mon, 29 Dec 2025 18:59:13 GMT</pubDate></item><item><title><![CDATA[Untitled]]></title><link>finals/untitled.html</link><guid isPermaLink="false">FINALS/Untitled.md</guid><pubDate>Wed, 31 Dec 2025 11:38:03 GMT</pubDate></item><item><title><![CDATA[Cinder Goliath]]></title><description><![CDATA[ADD (PANIC)ADD (TREMBLING)ADD (ASH)ADD (2x HOLLOW)ADD (DOUBT)ADD (INJURY)STRIKE (10)STRIKE (6)STRIKE (2x 6)STRIKE (8)GUARD (10)GUARD (20)YES/STARTD6 DEBUFFABOVE 25 HP?STRIKE (10)GUARD (10)STRIKE (8), GUARD (20), ADD (2x ASH)FOR EVERY STATUS IN HANDS EXTRA D6 INTENT (1,2 RED, 3,4 BLUE, 5,6 YELLOW)HP = 45NO?ADD (2x HOLLOW)]]></description><link>ds-(during-stabbings)/enemies/cinder-goliath.html</link><guid isPermaLink="false">DS (DURING STABBINGS)/ENEMIES/Cinder Goliath.canvas</guid><pubDate>Tue, 30 Dec 2025 21:20:42 GMT</pubDate></item><item><title><![CDATA[Shrieker]]></title><description><![CDATA[GUARD (4)STRIKE (6)STRIKE (14)HP = 9]]></description><link>ds-(during-stabbings)/enemies/shrieker.html</link><guid isPermaLink="false">DS (DURING STABBINGS)/ENEMIES/Shrieker.canvas</guid><pubDate>Tue, 30 Dec 2025 21:01:54 GMT</pubDate></item><item><title><![CDATA[Husk]]></title><description><![CDATA[STRIKE (6)GUARD (6)STRIKE (8)GUARD (12)HP = 7]]></description><link>ds-(during-stabbings)/enemies/husk.html</link><guid isPermaLink="false">DS (DURING STABBINGS)/ENEMIES/Husk.canvas</guid><pubDate>Tue, 30 Dec 2025 21:00:22 GMT</pubDate></item><item><title><![CDATA[EROSION]]></title><description><![CDATA[Cost: 1 Energy. When drawn, take 1 DMG. <a data-href="DRAW" href="character/cards/keywords/secondary/draw.html" class="internal-link" target="_self" rel="noopener nofollow">DRAW</a> 1 card when played.]]></description><link>character/cards/status_cards/reshuffle/erosion.html</link><guid isPermaLink="false">CHARACTER/CARDS/STATUS_CARDS/RESHUFFLE/EROSION.md</guid><pubDate>Tue, 30 Dec 2025 20:51:49 GMT</pubDate></item><item><title><![CDATA[WOUND]]></title><description><![CDATA[When drawn, take 2 <a data-href="PIERCE" href="character/cards/keywords/secondary/pierce.html" class="internal-link" target="_self" rel="noopener nofollow">PIERCE</a> DMG.]]></description><link>character/cards/status_cards/wound.html</link><guid isPermaLink="false">CHARACTER/CARDS/STATUS_CARDS/WOUND.md</guid><pubDate>Tue, 30 Dec 2025 20:49:55 GMT</pubDate></item><item><title><![CDATA[INJURY]]></title><description><![CDATA[Cost: 2 Energy. <a data-href="RETAIN" href="character/cards/keywords/secondary/retain.html" class="internal-link" target="_self" rel="noopener nofollow">RETAIN</a><a data-href="EXHAUST" href="character/cards/keywords/exhaust.html" class="internal-link" target="_self" rel="noopener nofollow">EXHAUST</a>. While in hand, your <a data-href="BURST" href="character/oaths/burst.html" class="internal-link" target="_self" rel="noopener nofollow">BURST</a> is Locked.]]></description><link>character/cards/status_cards/injury.html</link><guid isPermaLink="false">CHARACTER/CARDS/STATUS_CARDS/INJURY.md</guid><pubDate>Tue, 30 Dec 2025 20:49:18 GMT</pubDate></item><item><title><![CDATA[HOLLOW]]></title><description><![CDATA[Cost: 1 Energy. No effect.]]></description><link>character/cards/status_cards/reshuffle/hollow.html</link><guid isPermaLink="false">CHARACTER/CARDS/STATUS_CARDS/RESHUFFLE/HOLLOW.md</guid><pubDate>Tue, 30 Dec 2025 20:47:47 GMT</pubDate></item><item><title><![CDATA[TREMBLING]]></title><description><![CDATA[Cost: 1 Energy. <a data-href="EXHAUST" href="character/cards/keywords/exhaust.html" class="internal-link" target="_self" rel="noopener nofollow">EXHAUST</a>. While in hand, playing another card deals Self DMG = <a data-href="ENERGY" href="ds-(during-stabbings)/playerside/energy.html" class="internal-link" target="_self" rel="noopener nofollow">ENERGY</a> cost of the card played.]]></description><link>character/cards/status_cards/trembling.html</link><guid isPermaLink="false">CHARACTER/CARDS/STATUS_CARDS/TREMBLING.md</guid><pubDate>Tue, 30 Dec 2025 20:47:16 GMT</pubDate></item><item><title><![CDATA[DOUBT]]></title><description><![CDATA[<a data-href="RETAIN" href="character/cards/keywords/secondary/retain.html" class="internal-link" target="_self" rel="noopener nofollow">RETAIN</a> At the end of turn, lose 1 <a data-href="BURST" href="character/oaths/burst.html" class="internal-link" target="_self" rel="noopener nofollow">BURST</a>charge.]]></description><link>character/cards/status_cards/doubt.html</link><guid isPermaLink="false">CHARACTER/CARDS/STATUS_CARDS/DOUBT.md</guid><pubDate>Tue, 30 Dec 2025 20:45:36 GMT</pubDate></item><item><title><![CDATA[PANIC]]></title><description><![CDATA[Cost: 1 Energy. <a data-href="DISCARD" href="character/cards/keywords/secondary/discard.html" class="internal-link" target="_self" rel="noopener nofollow">DISCARD</a> another card from your hand. It does not contribute to Burst Gauge when discarded this way. <a data-href="RETAIN" href="character/cards/keywords/secondary/retain.html" class="internal-link" target="_self" rel="noopener nofollow">RETAIN</a>]]></description><link>character/cards/status_cards/panic.html</link><guid isPermaLink="false">CHARACTER/CARDS/STATUS_CARDS/PANIC.md</guid><pubDate>Tue, 30 Dec 2025 20:44:44 GMT</pubDate></item><item><title><![CDATA[ASH]]></title><description><![CDATA[Cost: 2 Energy. <a data-href="Exhaust" href="character/cards/keywords/exhaust.html" class="internal-link" target="_self" rel="noopener nofollow">Exhaust</a> when played. <a data-href="RETAIN" href="character/cards/keywords/secondary/retain.html" class="internal-link" target="_self" rel="noopener nofollow">RETAIN</a>]]></description><link>character/cards/status_cards/reshuffle/ash.html</link><guid isPermaLink="false">CHARACTER/CARDS/STATUS_CARDS/RESHUFFLE/ASH.md</guid><pubDate>Tue, 30 Dec 2025 20:43:30 GMT</pubDate></item><item><title><![CDATA[EXHAUST]]></title><description><![CDATA[Cards with this keyword are removed from the deck after being played.]]></description><link>character/cards/keywords/exhaust.html</link><guid isPermaLink="false">CHARACTER/CARDS/KEYWORDS/EXHAUST.md</guid><pubDate>Tue, 30 Dec 2025 20:43:05 GMT</pubDate></item><item><title><![CDATA[MIST]]></title><description><![CDATA[When drawn, shuffle a MIST into the Draw Pile. <a data-href="RETAIN" href="character/cards/keywords/secondary/retain.html" class="internal-link" target="_self" rel="noopener nofollow">RETAIN</a>]]></description><link>character/cards/status_cards/reshuffle/mist.html</link><guid isPermaLink="false">CHARACTER/CARDS/STATUS_CARDS/RESHUFFLE/MIST.md</guid><pubDate>Tue, 30 Dec 2025 20:41:11 GMT</pubDate></item><item><title><![CDATA[RULINGS]]></title><description><![CDATA[Enemies operate on fixed values and unique behaviours, ignoring player Prism constraints. This allows the GM to create "impossible" threats that require specific card or behaviour answers.
 An enemy's "Statblock" is essentially their Intent Loop/Algorithm + their HP.
 Ex.:
 Husk - 7 HP
@@ -65,10 +363,7 @@ The Stone Heart: The Hearth is immune to the first Yellow (Disruptive) Intent of
 <br>The Whispering Coil: When the Sync-Axis is in Harmony (+3 <a data-href="SYNC-AXIS" href="ds-(during-stabbings)/playerside/sync-axis.html" class="internal-link" target="_self" rel="noopener nofollow">SYNC-AXIS</a>), <a data-href="Mend" href="character/cards/keywords/primary/mend.html" class="internal-link" target="_self" rel="noopener nofollow">Mend</a> effects are doubled.
 <br>Heavy Greataxe: Adds <a data-href="Pierce" href="character/cards/keywords/secondary/pierce.html" class="internal-link" target="_self" rel="noopener nofollow">Pierce</a> to the first <a data-href="Strike" href="character/cards/keywords/primary/strike.html" class="internal-link" target="_self" rel="noopener nofollow">Strike</a> each turn.<br>
 The Hearth can carry 3 Artifacts (Active Passives) and 6 Mundane Items (Tools/Curios). <a data-href="Shards" href="bs-(between-stabbings)/shards.html" class="internal-link" target="_self" rel="noopener nofollow">Shards</a> do not count toward this limit; they are stored within the "Ember" itself.
-]]></description><link>character/inventory.html</link><guid isPermaLink="false">CHARACTER/INVENTORY.md</guid><pubDate>Tue, 30 Dec 2025 20:26:48 GMT</pubDate></item><item><title><![CDATA[VIBE]]></title><description><![CDATA[
-Low fantasy: magic is ubiquitous but weakened. People usually know someone who uses it for something more, but almost nobody can use it Well - in a controlled manner, while retaining power. Most common folk have a hard time with just one of these dimensions. Anyone can light a torch with a flick of their fingers, but someone with enough aptitude and strength to cast a ray of fire is one in a million.
-Dark Fantasy: The world is undoubtably a "Bad Place to Be in". People assume the worst in people, The weather usually sucks, and it is dangerous "out there" even for Embers. The environment is hostile, often shrouded in the <a data-href="GREY MIST" href="lore/world/grey-mist.html" class="internal-link" target="_self" rel="noopener nofollow">GREY MIST</a>, making travel suicidal without the light of a Hearth. Gritty: The players are not expected to be "heroes in shining armours, come to save the world". They can be, of course, if they will it, but morally grey and even antagonistic options are on the table still.
-]]></description><link>lore/world/vibe.html</link><guid isPermaLink="false">LORE/WORLD/VIBE.md</guid><pubDate>Tue, 30 Dec 2025 20:16:37 GMT</pubDate></item><item><title><![CDATA[EROSION]]></title><link>lore/world/religion-philosophy/erosion.html</link><guid isPermaLink="false">LORE/WORLD/RELIGION-PHILOSOPHY/EROSION.md</guid><pubDate>Tue, 30 Dec 2025 20:14:29 GMT</pubDate></item><item><title><![CDATA[GREY MIST]]></title><link>lore/world/grey-mist.html</link><guid isPermaLink="false">LORE/WORLD/GREY MIST.md</guid><pubDate>Tue, 30 Dec 2025 20:14:22 GMT</pubDate></item><item><title><![CDATA[PASSIVES]]></title><description><![CDATA[
+]]></description><link>character/inventory.html</link><guid isPermaLink="false">CHARACTER/INVENTORY.md</guid><pubDate>Tue, 30 Dec 2025 20:26:48 GMT</pubDate></item><item><title><![CDATA[PASSIVES]]></title><description><![CDATA[
 Dealing unblocked HP damage grants +1 Burst Charge.
 Negate the first negative <a data-href="STATUS" href="character/cards/status.html" class="internal-link" target="_self" rel="noopener nofollow">STATUS</a> applied to the Hearth each combat.
 <br>Start combats with <a data-href="Guile" href="prisms/guile.html" class="internal-link" target="_self" rel="noopener nofollow">Guile</a> <a data-href="Brace" href="character/cards/keywords/primary/brace.html" class="internal-link" target="_self" rel="noopener nofollow">Brace</a>/<a data-href="Empower" href="character/cards/keywords/primary/empower.html" class="internal-link" target="_self" rel="noopener nofollow">Empower</a>.
